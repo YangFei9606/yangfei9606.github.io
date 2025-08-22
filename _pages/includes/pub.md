@@ -15,11 +15,11 @@ Transportation Research Part C: Emerging Technologies
 </div>
 </div>
 
+## 🎙 Multi-Agent systems
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/KBS 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Formation control of multi-agent systems with actuator saturation via neural-based sliding mode estimators](https://www.sciencedirect.com/science/article/abs/pii/S0950705123010407)
-
-## 🎙 Multi-Agent systems
 
 **Yang Fei**, Peng Shi, Yankai Li, Yang Liu, Xiaobo Qu
 

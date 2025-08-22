@@ -1,19 +1,22 @@
-
 # 📖 Educations
-- *2019.06 - 2022.04*, Master, Zhejiang University, Hangzhou.
-- *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
-- *2012.09 - 2015.06*, Luqiao Middle School, Taizhou.
+- *2019.02 - 2022.07*, The University of Adelaide, School of Electrical and Electronic Engineering, Doctor of Philosophy. 
+- *2014.09 - 2018.06*, Harbin Institute of Technology, School of Astronautics, Bachelor of Engineering. 
+
+# 👓 Academic Appointments
+- *2024.05 - 2023.07*, Associate Editor, IEEE International Conference on Systems, Man and Cybernetics 2024. 
+- *2023.05 - 2023.07*, Associate Editor, IEEE International Conference on Systems, Man and Cybernetics 2023. 
+- *2020.08 - Now*, Peer reviewer (IEEE Transactions on Cybernetics, Automatica, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Industrial Electronics, IEEE Transactions on Intelligent Vehicles, IEEE Systems Journal, IEEE Transactions on Circuits and Systems I: Regular Papers, Nonlinear Dynamics, International Journal on Robust and Nonlinear Control)
+- *2025.08*, Session Chair at APTE 2025
+
 
 # 💬 Invited Talks
-- *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
-- *2021.06*, Audio & Speech Synthesis, Huawei internal talk
-- *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
-- *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk
+If you want to invite me to have a talk, I would be really happy.
+- *2024.08* Young Scientists Salon in Intelligent Guidance and Control. 
 
-# 💻 Internships
-- *2021.06 - 2021.09*, Alibaba, Hangzhou.
-- *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
-- *2019.02 - 2019.05*, [YiWise](https://www.yiwise.com/), Hangzhou.
-- *2018.08 - 2019.02*, [MSRA, machine learning Group](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), Beijing.
-- *2018.01 - 2018.06*, [NetEase, AI department](https://hr.163.com/zc/12-ai/index.html), Hangzhou.
-- *2017.08 - 2018.12*, DashBase (acquired by [Cisco](https://blogs.cisco.com/news/349511)), Hangzhou.
+# 💻 Working experience
+- *2023.07 - Now*, Post-Doctoral Research Fellow, Tsinghua University, China. (Full-time)
+- *2023.01 - 2023.06*, Research Assistant, Tsinghua University, China. (Full-time)
+- *2019.08 - 2022.11*, Final-Year Project Advisor, The University of Adelaide, Australia. (Part-time)
+- *2019.09 - 2022.07*, Part-Time Lecturer, The University of Adelaide, Australia. (Part-time)
+
+- 

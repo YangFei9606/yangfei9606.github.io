@@ -29,7 +29,7 @@ IEEE Transactions on Automation Science and Engineering
 
 [**Project code**](https://github.com/YangFei9606/Dynamically_triggered_estimator_based_controller_and_its_applications) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
-[**Demo**](https://www.youtube.com/watch?v=7-snrcksPjU&ab_channel=YangFei)
+[**Hardware-in-the-loop Demo**](https://www.youtube.com/watch?v=7-snrcksPjU&ab_channel=YangFei)
   
   
 </div>
@@ -47,7 +47,7 @@ Knowledge-Based Systems
 
 [**Project code**](https://github.com/YangFei9606/Control-Engineering-in-Intelligent-Transportation-Systems/tree/main/Formation_Control_of_Multi_Agent_Systems_with_Actuator_Saturation_via_Neural_Based_Sliding_Mode_Estimators) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-[**Demo**](https://www.youtube.com/watch?v=gq_OKctfRD4)
+[**Simulation Demo**](https://www.youtube.com/watch?v=gq_OKctfRD4)
 
 
 </div>
@@ -64,7 +64,7 @@ IEEE Transactions on Industrial Electronics
 
 [**Project code**](https://github.com/YangFei9606/Robust-and-cooperative-formation-control-of-nonlinear-multi-agent-systems/tree/main/Arduino-based%20practical%203-wheel%20rover%20development) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
   
-[**Demo**](https://www.youtube.com/watch?v=9VxhM9GsYoA&t=6s&ab_channel=YangFei)
+[**Hardware-in-the-loop Demo**](https://www.youtube.com/watch?v=9VxhM9GsYoA&t=6s&ab_channel=YangFei)
   
   
 </div>

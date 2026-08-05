@@ -14,7 +14,8 @@ If you want to invite me to have a talk, I would be really happy.
 - *2024.08* Young Scientists Salon in Intelligent Guidance and Control. 
 
 # 💻 Working experience
-- *2023.07 - Now*, Post-Doctoral Research Fellow, Tsinghua University, China. (Full-time)
+- *2026.08 - Now*, Associate Professor, Jiangnan University, China. (Full-time)
+- *2023.07 - 2026.07*, Post-Doctoral Research Fellow, Tsinghua University, China. (Full-time)
 - *2023.01 - 2023.06*, Research Assistant, Tsinghua University, China. (Full-time)
 - *2019.08 - 2022.11*, Final-Year Project Advisor, The University of Adelaide, Australia. (Part-time)
 - *2019.09 - 2022.07*, Part-Time Lecturer, The University of Adelaide, Australia. (Part-time)

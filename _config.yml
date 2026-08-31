@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yang FEI"
-description              : "Post-doctoral research fellow in the field of intelligent transportation systems"
+description              : "Associate Professor in AI and ITS"
 repository               : "YangFei9606/yangfei9606.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Yang FEI"
   avatar           : "images/Yang_Fei.jpg"
-  bio              : "Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Jiangnan University"
+  location         : "Jiangsu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=6hxiUN4AAAAJ"

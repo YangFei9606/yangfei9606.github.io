@@ -1,6 +1,22 @@
 
 # 📝 Publications 
 
+## 🎙 Vehicular Chassis Design and Control
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2026</div><img src='images/TRC 2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Anti-singular control of a hybrid-motion vehicle and experimental validations for its applicability in micro-sized transportation scenarios](https://doi.org/10.1016/j.trc.2026.105698)
+
+**Yang Fei**, Yuhao Wang, Weimin Zhen, Chunlin Wang, Liang Wang, Xiaobo Qu
+
+Transportation Research Part C: Emerging Technologies
+
+[**Project code**](https://github.com/YangFei9606/Control-Engineering-in-Intelligent-Transportation-Systems/tree/main/Adaptive_control_of_pedestrian_following_rover) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
 ## 🎙 Intelligent Transportation Systems
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025</div><img src='images/TRC 2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,7 +51,7 @@ IEEE Transactions on Automation Science and Engineering
 </div>
 </div>
 
-## 🎙 Multi-Agent systems
+## 🎙 Multi-Agent Collaboration
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KBS 2024</div><img src='images/KBS 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

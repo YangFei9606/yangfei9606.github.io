@@ -13,6 +13,10 @@ Transportation Research Part C: Emerging Technologies
 
 [**Project code**](https://github.com/YangFei9606/Control-Engineering-in-Intelligent-Transportation-Systems/tree/main/Adaptive_control_of_pedestrian_following_rover) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
+[**Hardware-in-the-loop Demo**]( https://youtu.be/cOxEx8e4mmc)
+
+[**Simulation Demo**](https://www.bilibili.com/video/BV1pCNQ6YEqj/?spm_id_from=333.1387.homepage.video_card.click&vd_source=400c7ffb0cc1ed249e8a7566f50e331b)
+
 </div>
 </div>
 
